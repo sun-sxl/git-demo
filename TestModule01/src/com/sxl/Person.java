@@ -6,5 +6,7 @@ public class Person {
     private String number;
 	private int height;
     private String grade;
+    private String school;
+
 
 }
